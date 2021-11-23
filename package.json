@@ -7,7 +7,7 @@
     "start": "node index",
     "test": "mocha"
   },
-  "author": "",
+  "author": " ",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^8.2.1"
